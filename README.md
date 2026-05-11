@@ -6,6 +6,8 @@ One keypress (`Prefix + g`) opens a floating popup listing every Copilot
 conversation, grouped by project directory, with a live preview on the right.
 Select one to instantly resume it in a new tmux window, cd'd to the project.
 
+![Session picker](img/screenshot.svg)
+
 ## Install
 
 ### TPM
